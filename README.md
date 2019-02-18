@@ -1,2 +1,2 @@
-# automating_aws_with_python
+# Learning How to Automate AWS with Python- This is Fun
 repo from practice AWS Python
